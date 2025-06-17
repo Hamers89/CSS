@@ -1,0 +1,13 @@
+.abuelo.titulo{
+  color:red;
+  }
+.abuelo,.titulo{
+  color:blue;
+}
+h1.titulo+h2.titulo{
+  color:green;
+}
+h1.titulo+h3.titulo{
+  color:olive;
+
+}
